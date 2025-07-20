@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+gspread
+oauth2client
+pyaudio
+pandas
+matplotlib
